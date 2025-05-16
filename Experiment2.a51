@@ -1,5 +1,4 @@
-// NAME:- Prathmesh Navale BATCH:- B3
-  // PRN NO.:- 22420235 ROLL NO.:- 212075
+//name:LED interfacing experiment number 2
     
    org 0000h
    clr p2.1 //clear p2.1 (low)switch
